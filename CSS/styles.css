@@ -1,0 +1,71 @@
+#lista {
+    list-style-type: none;
+    text-align: left top;
+    font-family: Open Sans , sans-serif;
+    font: size 25px;
+    color:black ;
+
+}
+
+h2 {
+    font-family: Work Sans, sans-serif;
+    font-size:40px ;
+    text-align: left center ;
+
+
+}
+
+h1 {
+    font-family: Raleway , sans-serif;
+
+    font-size: 80px;
+    text-align: bottom;
+    background-color:rgba (248,248,255,0.504);
+
+}
+
+#bodyindex {
+    background-image: url(../imgs/img/home.jpg);
+    background-repeat:no-repeat;
+    background-size:118px;
+    background-position: 400px 18px;
+
+}
+
+#about1 {
+    background-image: url(../imgs/img/about.jpg);
+    background-repeat:no-repeat;
+    background-size:118px;
+    background-position: 400px 15px;
+}
+
+h3{
+    font-family: Open Sans , sans-serif;
+font-size:30px;
+text-align:left;
+color:darkslategray ;
+background-color:rgba(red, green, blue, alpha) [248,248,255,0.504];
+
+}
+
+h4 {
+    font-family: Open Sans , sans-serif;
+    font-size:30px;
+    text-align:left ;
+    color:darkslategray ;
+    background-color:rgba(red, green, blue, alpha) [248,248,255,0.504];    
+}
+
+#MUSIC-P {
+    font-family: Work Sans, sans-serif ;
+    font-size:30px;
+
+}
+
+NEGRITO {
+font-weight: bold;
+}
+
+span{
+    font-weight: 400;
+}
